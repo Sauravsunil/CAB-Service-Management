@@ -1,0 +1,58 @@
+.car0{
+    background-color: aliceblue;
+     background-image: url('drive.jpg');
+     background-size: cover;
+ }
+
+.car1{
+   background-color: aliceblue;
+    background-image: url('dest.jpg');
+    background-size: cover;
+}
+.car2{
+    background-image: url('cab2.jpg');
+    background-size: cover;
+}
+.car3{
+    background-image: url('d2.jpg');
+    background-size: cover;
+}
+.c{
+    height: 85vh;
+    width: 80vw;
+    background-color: rgba(255, 255, 255, 0);
+    opacity: .9;
+    display: flex;
+    
+}
+.r1{
+height: 85vh;
+width: 40vw;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: aliceblue;
+}
+.row{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.col-sm-4{
+   
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    border-radius: 8px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.r2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
